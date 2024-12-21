@@ -37,7 +37,7 @@ A project clone of @adrianhajdin's [Project_HooBank](https://github.com/adrianha
 
 ## Author
 
-- Website - [Robee D.](https://www.robeeds.tech)
+- Website - [Robee D.](https://www.robeeds.dev)
 
 ## Credits
 
